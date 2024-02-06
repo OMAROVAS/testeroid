@@ -108,7 +108,8 @@ wp test
 ```
 
 
-# Todo
+#databaseodo*#
 - [x] test seeding and import test data
-- [x] improve CLI UI
+- [1
+- x] improve CLI UI
 - [ ] test GitHub Actions and auto testings for PRs
